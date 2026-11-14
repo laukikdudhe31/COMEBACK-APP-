@@ -1,0 +1,6 @@
+{
+  "name": "The Comeback Project",
+  "description": "Strategic growth, public relations, branding, investor readiness, and business advisory agency helping ambitious brands build credibility and command visibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
